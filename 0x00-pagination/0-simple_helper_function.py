@@ -1,7 +1,8 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """0 simple pagination"""
 
-def index_range(page:int, page_size:int):
+
+def index_range(page: int, page_size: int):
     """
     Args:
     - page: page to to be retrieved
